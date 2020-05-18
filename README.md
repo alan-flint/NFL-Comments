@@ -11,7 +11,7 @@ The repo has
 ### Sentiment Analysis Interesting Findings
 I manipulated the data so I only analyzed comments from fans of the team with the most recent draft pick. For example, for the I only analyzed comments from Seahawks fans right after the Seahawks drafted a player, then from Packer fans right after the Packers drafted a player, etc. This was to get the raw, immediate reaction of fans to the players their team drafted.
 
-Steeler, Cheif, and Charger fans were the most positive about their draft picks overall. While Eagles, Packers and Seahawks were in the bottom 5. 
+Steelers, Chiefs, and Chargers fans were the most positive about their draft picks overall. While Eagles, Packers and Seahawks were in the bottom 5. 
 
 Chargers Round 4 (local RB from UCLA), 49ers Round 7 , and Cardinals Round 7 (local RB from Arizona State) were the most positive fans by round. 
 
